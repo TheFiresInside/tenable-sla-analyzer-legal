@@ -1,4 +1,4 @@
-# Tenable SLA Analyzer — Privacy Policy
+# SLA Analyzer for Tenable.io — Privacy Policy
 
 **Last updated:** 2026-05-18
 **Applies to:** Tenable SLA Analyzer for Windows, all versions
