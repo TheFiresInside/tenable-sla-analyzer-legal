@@ -1,7 +1,12 @@
 # SLA Analyzer for Tenable.io — Privacy Policy
 
-**Last updated:** 2026-05-18
-**Applies to:** Tenable SLA Analyzer for Windows, all versions
+**Last updated:** 2026-05-20
+**Applies to:** SLA Analyzer for Tenable.io (Windows), all versions
+
+> **Not affiliated with, endorsed by, or sponsored by Tenable, Inc.**
+> "Tenable" and "Tenable.io" are trademarks of Tenable, Inc.; used here under
+> nominative fair use to identify the third-party platform with which this
+> application is designed to interoperate.
 
 ## What the app collects from your machine
 
